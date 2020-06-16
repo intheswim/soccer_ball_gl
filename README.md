@@ -20,6 +20,10 @@ Then run make:
 
 ### Usage
 
+Run from command line:
+
+`./ball`
+
 Use keyboard arrow keys to rotate the ball.
 
 ![Screenshot](/screenshot.png)
